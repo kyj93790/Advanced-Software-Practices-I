@@ -1,7 +1,7 @@
 !PLEASE CHECK!
 
-Project Environment is little bit changed.
-You have to install new version of gym pakage.
+Project Environment is little bit changed.<br>
+You have to install new version of gym pakage.<br>
 It is included in directory "env" with guideline.
 
 ------------------------------------------------------------------
