@@ -6,7 +6,7 @@ Have to install Miniconda or Anaconda
 All the package needed for environment is included in directory "env" <br>
 You can follow the instructions in pdf file to set the environment for this project
 
-After you set all the thing needed, then fill the TO DO part in "lane_detection.py"
+After you set all the things needed, then fill the TO DO part in "lane_detection.py"
 
 Good Luck !
 
